@@ -2,6 +2,7 @@
 
 int daysInM(Month m, int y){
     
+    //qui viene gestita la casistica dei mesi bisestili
     switch(m){
         case jan: case mar: case may: case jul: case aug: case oct: case dec: return 31;
             break;
