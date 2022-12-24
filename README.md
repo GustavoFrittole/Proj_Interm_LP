@@ -1,1 +1,1 @@
-# Progetto laboratorio n°5 LPD
+# Progetto intermedio, laboratorio n°5 LD
